@@ -5,8 +5,8 @@ This is a minimal example of an issue with suspend in react-three-fiber and flex
 ### Steps to reproduce
 
 1. Clone this repo
-2. Run `yarn install`
-3. Run `yarn start`
+2. Run `npm install`
+3. Run `npm start`
 4. Open the browser at http://localhost:3000
 
 You should see a flexlayout with a single tab containing a react-three-fiber canvas briefly flash up before the screen
